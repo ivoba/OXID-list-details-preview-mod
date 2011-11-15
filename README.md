@@ -7,7 +7,7 @@ Enable module under System:
 details.php => ib_list_detail_preview.php
 
 ####Requirements:  
-the javascript requires jQuery & jQueryUI
+the javascript requires jQuery & jQueryUI  
 ```<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.js"></script>  
    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js" type="text/javascript"></script>
 ```             
